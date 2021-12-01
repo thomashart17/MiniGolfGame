@@ -164,7 +164,6 @@ public class GameScreen implements Screen {
                         xVelocity = -xVelocity;
                     }
                 }
-                break;
             }
         }
 
