@@ -1,8 +1,0 @@
-com/badlogic/gdx/GameScreen.java
- com.badlogic.gdx.GameScreen
-com/badlogic/gdx/MiniGolf.java
- com.badlogic.gdx.MiniGolf
-com/badlogic/gdx/MenuScreen.java
- com.badlogic.gdx.MenuScreen
-com/badlogic/gdx/EndScreen.java
- com.badlogic.gdx.EndScreen
